@@ -39,5 +39,10 @@
 @endfor
 </div>
 
+
+
+<h1>Main</h1>
+<a href="{{route('about')}}">О нас</a>
+<a href="{{route('contacts')}}">Контакты</a>
     </body>
 </html>
